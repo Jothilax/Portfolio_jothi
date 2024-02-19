@@ -1,0 +1,112 @@
+header{
+    position:relative;
+    background-color: rgb(241, 199, 199);
+    height :100px;
+    padding-left: 100px;
+    padding-bottom: 100px;
+   
+}
+h1 a{
+    font-size: larger;
+}
+nav,h1{
+    display: inline-block; 
+    /* font-family: Arial, Helvetica, sans-serif; */
+    font-weight: bold;
+}
+a{
+    color: black;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+li{
+    display: inline-block; 
+    list-style-type: none;
+   
+}
+h1{
+    padding-top: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: justify;
+}
+nav{
+    padding-left: 350px;
+}
+div{
+   background-color: rgb(241, 199, 199);
+   width:100%;
+   position:relative;
+}
+.sectiontb{
+padding-left: 100px;
+padding-right: 100px;
+
+}
+.content{
+    padding-left: 100px;
+    text-align: justify;
+   
+}
+footer{
+   border:1px solid   rgb(241, 199, 199);
+    background-color:  rgb(241, 199, 199);
+    /* width:100%; */
+    /* position:relative; */
+}
+.concact{
+    width: 800px;
+   padding: 20px;
+
+}
+.ans{
+    padding-left: 100px;
+}
+.qns{
+    padding-left: 250px;
+    font-size: large;
+}
+.sub{
+    text-align: center;
+}
+.edu{
+    padding-top: 40px;
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: large;
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(241, 199, 199);
+   position:relative;
+}
+.prj{
+    padding-top: 1px;
+    padding-bottom: 5px;
+    padding-left: 50px;
+    /* text-align: center; */
+    /* font-size: large; */
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgb(241, 199, 199);
+   position:relative;
+}
+.proj{
+    list-style-type: circle;
+}
+h3{
+    font-family:Arial, Helvetica, sans-serif;
+}
+.exp{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-left: 50px;
+    /* text-align: center; */
+    /* font-size: large; */
+    font-weight: bold;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color:  rgb(241, 199, 199);
+   position:relative;
+}
+
